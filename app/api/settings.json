@@ -1,0 +1,24 @@
+{
+    "s" : [
+        {
+            "password" : "12",
+            "page"     : "sabina.txt",
+            "name"     : "Сабина",
+            "scoreXP"  : "0",
+            "score"    : "95",
+            "status"   : "younger",
+            "avatar"   : "queen"
+        }
+    ],
+    "maratka" : [
+        {
+            "password" : "654321",
+            "page"     : "marat.txt",
+            "name"     : "Марат",
+            "scoreXP"  : "0",
+            "score"    : "0",
+            "status"   : "younger",
+            "avatar"   : "bitmaker"
+        }
+    ]
+}
